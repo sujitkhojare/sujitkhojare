@@ -1,4 +1,3 @@
-![logo](https://github.com/sujitkhojare/sujitkhojare/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sujit Khojare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
